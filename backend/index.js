@@ -6,7 +6,9 @@ require('dotenv').config();
 require('./Models/db');
 const cors = require('cors')
 app.use(cors({
-  origin: 'https://task-manager-app-deploy-ui-rho.vercel.app'  // Replace this with your frontend URL
+  origin: 'https://task-manager-app-deploy-ui-rho.vercel.app', // Your frontend URL
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],  // Allowing specific methods
+  allowedHeaders: ['Content-Type', 'Authorization']  // Allowing headers
 }));
 const userRoutes = require('./Routes/users');
 const authRoutes = require("./Routes/auth");
