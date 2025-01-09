@@ -1,11 +1,7 @@
 ﻿# Task-Manager-App-deploy
 
-Description:
-# Task Manager App
 
-This project consists of two parts: **Frontend** and **Backend**.
 
-# Task Manager App
 
 Welcome to the **Task Manager App**! This project is divided into two main parts: **Frontend** and **Backend**.
 
