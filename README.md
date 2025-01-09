@@ -1,6 +1,9 @@
 ﻿# Task-Manager-App-deploy
 
+## 🎥 Demo Video
 
+Watch the demo of the Task Manager App to see how it works:
+DEMO Video Link - https://drive.google.com/file/d/1N2GqhhrxzJknlxzYlu0nXocQngjA4M3V/view?usp=sharing
 
 
 Welcome to the **Task Manager App**! This project is divided into two main parts: **Frontend** and **Backend**.
