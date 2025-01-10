@@ -1,5 +1,16 @@
 ﻿# Task-Manager-App-deploy
 
+## Environment Variables
+
+This project requires certain environment variables to run. Create a `.env` file in the `backend` folder of the project and add the following variables:
+
+**PORT = 8080**  
+**JWT_PRIVATE_KEY = "ashhfu89739723773uejanj83792778"**  
+**SALT = 10**  
+**DB_URL = "mongodb+srv://adityamanocha0501:GEIE0Hb2n58zKZTz@cluster123.cb9jf.mongodb.net/Task?retryWrites=true&w=majority&appName=Cluster123"**
+
+
+
 ## 🎥 Demo Video
 
 Watch the demo of the Task Manager App to see how it works:
