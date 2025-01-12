@@ -1,5 +1,7 @@
 ﻿# Task-Manager-App-deploy
 
+If there is any problem running this project then, I have created another repository with the necessary environment variables. You can find it here- https://github.com/AdityaManocha1234/managemytasks.
+
 ## Environment Variables
 
 This project requires certain environment variables to run. Create a `.env` file in the `backend` folder of the project and add the following variables:
